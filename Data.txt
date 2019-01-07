@@ -1,3 +1,0 @@
-Due to the space constrain, public transport is extremely popular in Singapore. The Mass Rapid Transit trains is relied upon by most people to get from point A to point B. Thus, any businesses that surrounds such areas may be useful in helping to determine whether a CBD should exists in the area.
-
-The data consist of GPS coordinates of each of the MRT stations in Singapore. Using Foursquare's search API, the businesses at a fixed vicinity from each  MRT stations are then compiled, and analysed using K-Means approach. Based on the results, we may then analyse on how the business that exists around MRT stations may be used to predict the suitability of the area as a potential business district.  
